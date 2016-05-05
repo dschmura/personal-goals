@@ -28,5 +28,5 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Work on [my cool project I forgot about](http://google.com)
 
 ### Backlog: Code Things I Want to Do/Play With
-1. Create ipusm generator
+1. Create ipsum generator
 2. Deploy my node cli too to NPM
