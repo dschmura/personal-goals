@@ -8,6 +8,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 # Overarching Goals
 1. Contribute to Open Source
 2. Write more blog posts
+3. Acknowledge my progress
 
 # May 1st, 2016
 
